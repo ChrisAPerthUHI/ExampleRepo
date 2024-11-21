@@ -1,2 +1,2 @@
-This is an instruction set for my work.
+This is an isntrcution set for my work.
 
